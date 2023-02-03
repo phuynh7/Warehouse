@@ -1,4 +1,4 @@
---Using Oracle to data clean an warehouse
+--Using Oracle to data clean a warehouse
 -- Changes made were:
 --changed subpart entity to assembly and added assembly num as pk and partnum as fk
 --shortened names
